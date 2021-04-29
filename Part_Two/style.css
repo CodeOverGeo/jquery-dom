@@ -48,6 +48,7 @@ th {
   text-align: left;
 }
 
-.x {
+.x,
+th {
   cursor: pointer;
 }
