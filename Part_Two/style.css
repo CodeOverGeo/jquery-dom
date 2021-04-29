@@ -1,0 +1,53 @@
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(to right, #ffffff, #ef3b36);
+}
+
+input[type='text'] {
+  width: 200px;
+}
+
+input[type='number'] {
+  width: 20px;
+}
+
+form div {
+  padding: 10px;
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: rgb(31, 82, 79);
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 100px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 40%;
+}
+
+thead {
+  background-color: crimson;
+}
+
+th {
+  text-align: left;
+}
+
+.x {
+  cursor: pointer;
+}
